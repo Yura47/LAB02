@@ -1,0 +1,7 @@
+anguage: csharp 
+mono: none 
+dotnet: 3.1 
+solution: Lab2_04.sln 
+script: 
+  - dotnet restore
+  - dotnet test
