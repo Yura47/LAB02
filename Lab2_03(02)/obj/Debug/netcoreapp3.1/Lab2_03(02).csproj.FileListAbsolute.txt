@@ -1,0 +1,11 @@
+D:\STUD\PROGRAMM\new sem\Lab2_03(02)\Lab2_03(02)\bin\Debug\netcoreapp3.1\Lab2_03(02).exe
+D:\STUD\PROGRAMM\new sem\Lab2_03(02)\Lab2_03(02)\bin\Debug\netcoreapp3.1\Lab2_03(02).deps.json
+D:\STUD\PROGRAMM\new sem\Lab2_03(02)\Lab2_03(02)\bin\Debug\netcoreapp3.1\Lab2_03(02).runtimeconfig.json
+D:\STUD\PROGRAMM\new sem\Lab2_03(02)\Lab2_03(02)\bin\Debug\netcoreapp3.1\Lab2_03(02).runtimeconfig.dev.json
+D:\STUD\PROGRAMM\new sem\Lab2_03(02)\Lab2_03(02)\bin\Debug\netcoreapp3.1\Lab2_03(02).dll
+D:\STUD\PROGRAMM\new sem\Lab2_03(02)\Lab2_03(02)\bin\Debug\netcoreapp3.1\Lab2_03(02).pdb
+D:\STUD\PROGRAMM\new sem\Lab2_03(02)\Lab2_03(02)\obj\Debug\netcoreapp3.1\Lab2_03(02).csprojAssemblyReference.cache
+D:\STUD\PROGRAMM\new sem\Lab2_03(02)\Lab2_03(02)\obj\Debug\netcoreapp3.1\Lab2_03(02).AssemblyInfoInputs.cache
+D:\STUD\PROGRAMM\new sem\Lab2_03(02)\Lab2_03(02)\obj\Debug\netcoreapp3.1\Lab2_03(02).AssemblyInfo.cs
+D:\STUD\PROGRAMM\new sem\Lab2_03(02)\Lab2_03(02)\obj\Debug\netcoreapp3.1\Lab2_03(02).dll
+D:\STUD\PROGRAMM\new sem\Lab2_03(02)\Lab2_03(02)\obj\Debug\netcoreapp3.1\Lab2_03(02).pdb
